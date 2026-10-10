@@ -8,5 +8,5 @@ dist/
 *.log
 *.xlsx
 *.xlsm
-*.csv
-*.txt
+media_organizer_*.csv
+media_organizer_*_summary.txt
